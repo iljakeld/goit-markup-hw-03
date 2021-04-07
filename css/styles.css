@@ -291,10 +291,6 @@ img {
   margin-top: 20px;
 }
 
-.footer-contacts {
-  margin-top: 9px;
-}
-
 .footer-contacts .footer-item:not(:last-child) {
   margin-bottom: 9px;
 }
